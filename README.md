@@ -1,2 +1,2 @@
 # Friends TeamOps
-This rep is our TeamOps Wiki. Our goal is to create the environment for better decisions and improved execution.
+Welcome to our TeamOps Wiki space! Our main goal is to create an environment that promotes better decision-making and improved execution. We're all about setting the stage for effective collaboration and achieving success as a team.
