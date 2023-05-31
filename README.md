@@ -1,2 +1,2 @@
 # friends
-This repo is our TeamOps wiki for government projects.
+This rep is our TeamOps Wikie. Our goal is to create the environment for better decisions and improved execution.
