@@ -1,4 +1,4 @@
-# About Product Design
+# About The UX Team
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
 Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
 when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining 
@@ -11,3 +11,6 @@ Lapedra Tolson | Founder | lapedra@cityfriends.tech
 Tamara Tolson | Co-Founder | tamara@cityfriends.tech
 
 ## Table of Contents
+UX Research
+Product Design
+Content Strategy
