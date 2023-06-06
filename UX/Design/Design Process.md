@@ -1,10 +1,10 @@
 # Product Design Process
-Work with your PM to validate who you're designing for, what you're designing, and why you're designing it.
-Help your PM express the who/what/why as a user story. For example, "As a (who), I want (what), so I can (why/value)." If you’re asked to implement a non-evidence-based how, then ask the PM to refocus on the who/what/why, so everyone can work together to find the best how.
+## 🖋️ Define The Opportunity
+* Work with your PM to validate who you're designing for, what you're designing, and why you're designing it.
+* Help your PM express the who/what/why as a user story. For example, "As a (who), I want (what), so I can (why/value)." If you’re asked to implement a non-evidence-based how, then ask the PM to refocus on the who/what/why, so everyone can work together to find the best how.
+* Help your PM to define MVC success criteria, prioritizing MVC “must-haves” and non-MVC “should-haves” and “could-haves.” (Note that this success criteria is subject to change based on new learning from the iterative design process and customer feedback.)
 
-Help your PM to define MVC success criteria, prioritizing MVC “must-haves” and non-MVC “should-haves” and “could-haves.” (Note that this success criteria is subject to change based on new learning from the iterative design process and customer feedback.)
-
-## 👀 Before You Design
+## 🛑 Before You Design
 #### Step 1. Generate Ideas
 Part of the role of product designers is to lead and facilitate idea generation within our teams. We are all very busy working with PMs to drive forward our product roadmaps and solve known UX problems, but remember there are also undiscovered problems out there that are definitely worth solving. Here are a few activities and resources to inspire you!
 * Run a sync (such as a ThinkBig! session), async, or combination workshop to generate ideas. Define a scope and invite participants from product, engineering, ux research, and other areas for best results.
@@ -26,7 +26,7 @@ It is our responsibility as Product Designers to research how our work can impac
 * Identify the DRI for the product area you're about to start working on, and involve them in your design process from the beginning. If you are unsure who the DRI is, visit the Product Categories Handbook page.
 * Check the Product Kickoff Review to see the list of issues that are currently planned for next release in other stages.
 
-#### Step 4. Aiming towards "Sophisticated Simplicity"
+## 🏯 Aim towards "Sophisticated Simplicity"
 There are three tenets of sophisticated simplicity to keep in mind as you're designing:
 * Structure - Organization and hierarchy of content and concepts into meaningful groups and patterns
 * Discovery - Ability to interact and explore that leads to learning and proficiency while being mistake adverse
@@ -57,7 +57,7 @@ There are two evergreen design efforts that align with sophisticated simplicity:
 * Beautifying the UI - Clean up a portion of the UI — from a single component to an entire page or experience — to create more consistency, organization, and aesthetic improvements. Learn more in the Beautifying our UI section of the handbook.
 * Unboxing the UI - Boxes are currently overused to convey hierarchy, layout content, and divide pages into sections, but there are better ways. Learn more in this video on "Unboxing" the UI.
 
-### Ideate and Iterate
+## ♾️ Ideate and Iterate
 Iterative design at GitLab combines the two industry-standard definitions of "incremental design" and "design iteration." Put simply, iterative design is the process of breaking down design solutions into the smallest change possible that improves the user's outcome. It's getting things quickly into the product to get feedback early and guide refinement.
 
 When applying iterative design, you should consider the longer-term strategy or vision and work with your Product Manager to plan successive releases until it's realized.
@@ -71,4 +71,22 @@ When applying iterative design, you should consider the longer-term strategy or 
 * If the team does not have a high level of confidence in a direction, there are multiple design solutions, or the direction is a significant risk, validate your proposed solution with customers/users by leveraging ux research methods. If the team has a high level of confidence in a direction or design solution and the risk is low, it's fine to gather feedback from customers only after releasing the MVC.
 * Use the design and UI changes checklist to help you think through how your design will read, look, and behave.
 
+## Deliver
+* Once your work is complete and all feedback is addressed, make sure that the issue description, the SSOT, is updated with a section called "Solution". This is where you should direct people when they have questions about what should be done and how. If you use a UX issue, please update the main issue as well.
+* Include your design in the "Solution" section. For small designs that don't need extra explanation or demonstration of interactions, a mock-up here is sufficient. For more involved changes, include a link to the Figma file.
+* Use the design handoff checklist to make sure all design specifications are documented and you're setting up Engineers for success.
+* When sharing design work, utilize both Figma's collaboration tools and GitLab's design management features. In the following table, you’ll find a few common scenarios along with the recommended tool. Use this as a starting point, and when in doubt, make the best decision that moves the design forward.
+
+Scenario | Figma / Sketch / UXPIN | Design Management
+--- | --- | ---
+Co-designing within a shared file | ✔️ | 
+Providing, or seeking feedback while a design is still in progress | ✔️ | 
+Seeking feedback on a design with a larger audience | | ✔️
+When feedback directly impacts an issue | | ✔️
+Presenting design options or variations so the team can choose a direction | | ✔️
+Sharing a prototype | ✔️ | 
+Adding a to-do for a designer as it relates to in-progress design | ✔️ |
+Adding a to-do for a designer as it relates to an issue | | ✔️
+Identifying visual regressions | | ✔️
+Detailed redlines or specs | ✔️ |
 
