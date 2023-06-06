@@ -1,11 +1,18 @@
 # Product Design Process
+
 ## On This Page
-[Define The Opportunity] (https://github.com/Friends-From-The-City/TeamOps/blob/main/UX/Design/Design%20Process.md#%EF%B8%8F-define-the-opportunity)
+* [Define The Opportunity](https://github.com/Friends-From-The-City/TeamOps/blob/main/UX/Design/Design%20Process.md#%EF%B8%8F-define-the-opportunity)
+* [Before You Design](https://github.com/Friends-From-The-City/TeamOps/edit/main/UX/Design/Design%20Process.md#-before-you-design)
+* [Aim Towards Simplistic Sophistication](https://github.com/Friends-From-The-City/TeamOps/edit/main/UX/Design/Design%20Process.md#-aim-towards-sophisticated-simplicity)
+* [Ideate and Iterate](https://github.com/Friends-From-The-City/TeamOps/edit/main/UX/Design/Design%20Process.md#%EF%B8%8F-ideate-and-iterate)
+* [Deliver](https://github.com/Friends-From-The-City/TeamOps/edit/main/UX/Design/Design%20Process.md#deliver)
+* [Follow Through](https://github.com/Friends-From-The-City/TeamOps/edit/main/UX/Design/Design%20Process.md#%EF%B8%8F-follow-through)
 
 ## 🖋️ Define The Opportunity
 * Work with your PM to validate who you're designing for, what you're designing, and why you're designing it.
 * Help your PM express the who/what/why as a user story. For example, "As a (who), I want (what), so I can (why/value)." If you’re asked to implement a non-evidence-based how, then ask the PM to refocus on the who/what/why, so everyone can work together to find the best how.
 * Help your PM to define MVC success criteria, prioritizing MVC “must-haves” and non-MVC “should-haves” and “could-haves.” (Note that this success criteria is subject to change based on new learning from the iterative design process and customer feedback.)
+
 
 ## 🛑 Before You Design
 #### Step 1. Generate Ideas
@@ -28,6 +35,7 @@ It is our responsibility as Product Designers to research how our work can impac
 * Proactively reach out to other Product Designers (using Slack, Weekly UX Sessions, etc.) to get background information on the product area you are about to start working on and to learn how your product area depends and interacts with others.
 * Identify the DRI for the product area you're about to start working on, and involve them in your design process from the beginning. If you are unsure who the DRI is, visit the Product Categories Handbook page.
 * Check the Product Kickoff Review to see the list of issues that are currently planned for next release in other stages.
+
 
 ## 🏯 Aim towards "Sophisticated Simplicity"
 There are three tenets of sophisticated simplicity to keep in mind as you're designing:
@@ -119,5 +127,5 @@ For changes that affect Pajamas, such as introducing a new UI component, refinin
 * Add an agenda item to the next UX weekly call to inform everyone of those changes.
 * If the change/addition is a significant one, consider adding it to the Company Call to inform the company of the changes.
 
-## 👀 Follow-up after your changes go live
+### 👀 Follow-up after your changes go live
 * Listen for feedback. If you receive feedback (positive or negative), create an issue to track it. This can be feedback in social media, Slack, or internet forums; internal or external.
