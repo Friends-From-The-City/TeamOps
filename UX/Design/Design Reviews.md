@@ -1,4 +1,11 @@
 # ✔️ Design Reviews
+
+## On This Page
+* [Sharing Work and Getting Feedback](https://github.com/Friends-From-The-City/TeamOps/edit/main/UX/Design/Design%20Reviews.md#getting-feedback) 
+* [Partnering with UX and Technical Writers](https://github.com/Friends-From-The-City/TeamOps/edit/main/UX/Design/Design%20Reviews.md#-partnering-with-ux-or-technical-writers)
+* [Partnering With UX Research](https://github.com/Friends-From-The-City/TeamOps/edit/main/UX/Design/Design%20Reviews.md#-partnering-with-ux-research)
+
+## Sharing Work and Getting Feedback
 Sharing work and gathering feedback can happen at any time within the design process. We do this most frequently by sharing mocks and having open discussions in issues.
 Design Reviews are a dedicated space for Product Designers to give and receive specific and sometimes in-depth feedback on ideas and possible solutions. Other benefits include:
 * Discover what others are working on.
