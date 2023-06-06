@@ -1,4 +1,7 @@
 # Product Design Process
+## On This Page
+[Define The Opportunity] ()
+
 ## 🖋️ Define The Opportunity
 * Work with your PM to validate who you're designing for, what you're designing, and why you're designing it.
 * Help your PM express the who/what/why as a user story. For example, "As a (who), I want (what), so I can (why/value)." If you’re asked to implement a non-evidence-based how, then ask the PM to refocus on the who/what/why, so everyone can work together to find the best how.
@@ -90,3 +93,31 @@ Adding a to-do for a designer as it relates to an issue | | ✔️
 Identifying visual regressions | | ✔️
 Detailed redlines or specs | ✔️ |
 
+* If the solution needs to be broken out into smaller issues for implementation, apply the workflow::planning breakdown label and stay involved by walking PM and Engineering through the proposed solution and participating in the conversation to break down the issue.
+* If the solution needs to be scheduled by PM and/or EM, apply the workflow::scheduling label and mention the responsible product manager to schedule it. It is also the Product Designer's responsibility to communicate with the assigned engineer to ensure they understand the solution.
+* If the issue is meant for implementation in the current milestone, review the solution with the assigned engineer(s) and/or engineering manager. If they are comfortable with the solution, you can apply the workflow::ready for development label.
+* There are times that a Product Manager might request that an issue is moved to the Build phase before the Product Designer feels that the experience meets UX Department standards. In that case, the Product Designer should create follow-on issues and/or apply the UX debt label to indicate that the product doesn’t meet UX requirements and will require immediate iteration.
+
+## ↗️ Follow Through
+* Encourage Engineers to scope down features into multiple merge requests for an easier, more efficient review process.
+* When breaking down features into multiple merge requests, consider how the UX of the application will be affected. If merging only a portion of the total changes will negatively impact the overall experience, consider using a feature branch or feature flag to ensure that the full UX scope ships together.
+* When breaking solutions into smaller parts, make sure to share the end design goal, so that the entire team has context. 
+* Giving everyone the full picture helps developers write code aimed at achieving that goal in the future.
+* Keep the issue description updated with the agreed-on scope, even if doesn’t impact your work. This is everyone’s responsibility. The issue description must be the Single Source Of Truth (SSOT), not the discussion or individual comments.
+* Not all issues are scheduled immediately, which means changes are likely needed when the issue is prioritized. The Product Designer responsible for a particular stage group should be aware of open issues within their product area and work to prioritize them accordingly with their respective Product Managers, even if they are not the original designer who worked on the issue.
+* To stay up to date with issues in your product area, subscribe to the label that matches your stage group.
+* Review issues within your stage group label regularly.
+* Actively contribute to planning meetings to ensure all open issues are being discussed and prioritized.
+* When working on an issue, keep the SSOT in the description updated until the issue is closed. This applies to both text and mockups. Previous content (by a PM, for example) should be removed or archived into a separate section in the description. If the developer working on the issue ever has any questions on what they should implement, they can ask the designer to update the issue description with the design.
+* For obvious changes, make the SSOT description update directly. You don’t need to wait for consensus. Use your judgement.
+* When the issue is actively being worked on, make sure you are assigned and subscribed to the issue. Continue to follow both the issue and related merge request(s), addressing any additional UX issues that come up.
+
+For changes that affect Pajamas, such as introducing a new UI component, refining an existing component, or adding significant clarity to the usage of a component, you should take the following additional steps:
+* For changes that affect the user interface: Create a UX Pattern issue in GitLab Design and follow its checklist to record the new standard.
+* For other changes: Create an issue and/or MR in the Design System to update the documentation.
+* As applicable, create issue(s) to update areas of the application that are affected by this pattern.
+* Add an agenda item to the next UX weekly call to inform everyone of those changes.
+* If the change/addition is a significant one, consider adding it to the Company Call to inform the company of the changes.
+
+## 👀 Follow-up after your changes go live
+* Listen for feedback. If you receive feedback (positive or negative), create an issue to track it. This can be feedback in social media, Slack, or internet forums; internal or external.
