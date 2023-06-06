@@ -4,6 +4,7 @@
 * [Sharing Work and Getting Feedback](https://github.com/Friends-From-The-City/TeamOps/edit/main/UX/Design/Design%20Reviews.md#getting-feedback) 
 * [Partnering with UX and Technical Writers](https://github.com/Friends-From-The-City/TeamOps/edit/main/UX/Design/Design%20Reviews.md#-partnering-with-ux-or-technical-writers)
 * [Partnering With UX Research](https://github.com/Friends-From-The-City/TeamOps/edit/main/UX/Design/Design%20Reviews.md#-partnering-with-ux-research)
+* [Approach to Communication](https://github.com/Friends-From-The-City/TeamOps/edit/main/UX/Design/Design%20Reviews.md#approach-to-communication)
 
 ## Sharing Work and Getting Feedback
 Sharing work and gathering feedback can happen at any time within the design process. We do this most frequently by sharing mocks and having open discussions in issues.
@@ -68,3 +69,5 @@ For iteration inspiration watch our Product Designers discuss iteration at GitLa
   * Does this new pattern significantly improve the user experience?
   * If you decide that it is worth changing/updating the pattern, follow the steps outlined in our component lifecycle documentation.
 
+## Approach to Communication
+As design can be subjective, discussion can heat up. Sometimes team members won't agree on the best approach. Always try to be direct but kind. Try to give your best reasoning for your choices, and evaluate everyone's ideas and suggestions. Come up with a solution instead of discussing endlessly. If you think additional perspective is needed, mention a fellow Product Designer in the issue, or take it a step further and suggest that we perform some solution validation to let the data guide our design direction. Finally, remember that at GitLab we can disagree, commit, and disagree.
