@@ -1,6 +1,6 @@
 # Product Design Process
 ## On This Page
-[Define The Opportunity] ()
+[Define The Opportunity] (https://github.com/Friends-From-The-City/TeamOps/blob/main/UX/Design/Design%20Process.md#%EF%B8%8F-define-the-opportunity)
 
 ## 🖋️ Define The Opportunity
 * Work with your PM to validate who you're designing for, what you're designing, and why you're designing it.
