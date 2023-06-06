@@ -4,7 +4,7 @@ Help your PM express the who/what/why as a user story. For example, "As a (who),
 
 Help your PM to define MVC success criteria, prioritizing MVC “must-haves” and non-MVC “should-haves” and “could-haves.” (Note that this success criteria is subject to change based on new learning from the iterative design process and customer feedback.)
 
-## Before You Design
+## 👀 Before You Design
 #### Step 1. Generate Ideas
 Part of the role of product designers is to lead and facilitate idea generation within our teams. We are all very busy working with PMs to drive forward our product roadmaps and solve known UX problems, but remember there are also undiscovered problems out there that are definitely worth solving. Here are a few activities and resources to inspire you!
 * Run a sync (such as a ThinkBig! session), async, or combination workshop to generate ideas. Define a scope and invite participants from product, engineering, ux research, and other areas for best results.
