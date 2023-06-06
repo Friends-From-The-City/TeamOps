@@ -20,3 +20,16 @@ Examples of Proactive design work:
 * Iterating and posting, then evangelizing the change you came up with
 * Showing designs to colleagues for feedback before an issue is created
 
+## Designer Workflow Across Tools
+will support the flexibility of any design workflow, while featuring a simplified way to share of Design work. It would allow for independent design deadlines or separate milestones from engineering, and empower the Designer to easily track/follow the issue through to production.
+
+## Target Audience and Experience
+Design Management is targeted at product designers who collaborate with product managers and software developers.
+
+The minimal user journey provides designers with the ability to upload mockups to an issue, and for point of interest discussions to happen on each image. Over time these mockups can be updated to resolve the discussions. As the mockups are changed, new versions will be created to facilitate iteration.
+
+We have achieved the core workflow for a design persona on a GitLab Issue and are considering how to build additional Design Management features targeted at software developers and product managers to expand our growth.
+
+
+
+
